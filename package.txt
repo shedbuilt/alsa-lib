@@ -1,5 +1,5 @@
 NAME=alsa-lib
 VERSION=1.1.5
-REVISION=1
+REVISION=2
 SRC=ftp://ftp.alsa-project.org/pub/lib/alsa-lib-1.1.5.tar.bz2
 SRCMD5=a2b465c3a5265d8a57f3ff39c6c4fc29
